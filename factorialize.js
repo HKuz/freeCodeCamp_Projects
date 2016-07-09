@@ -1,5 +1,5 @@
 /**
- * Free Code Camp Front End Algorithm Challenges
+ * freeCodeCamp Front End Algorithm Challenges
  * @author Heather K.
  */
 
