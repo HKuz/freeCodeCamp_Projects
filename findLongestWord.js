@@ -1,3 +1,8 @@
+/**
+ * freeCodeCamp Front End Algorithm Challenges
+ * @author Heather K.
+ */
+
 function findLongestWord(str) {
     // Returns the length of the longest word in a string
     var temp = [];
