@@ -2,7 +2,7 @@
  * freeCodeCamp Front End Algorithm Challenges
  * @author Heather K.
  */
-
+ 
  // Finders Keepers
 
 function findElement(arr, func) {
@@ -15,7 +15,7 @@ function findElement(arr, func) {
 
 function findElementTest() {
     // Test suite for findElement
-
+    
     var inputs = [
         [[1,3,5,8,9,10], function(num) {return num % 2 === 0;}],
         [[1,3,5,9], function(num) {return num % 2 === 0;}]
@@ -24,7 +24,7 @@ function findElementTest() {
         8,
         undefined
     ];
-
+    
     for (var i = 0; i < inputs.length; i++) {
         var item = inputs[i];
         var test = findElement(item[0], item[1]);
